@@ -32,6 +32,9 @@ We thank our senior students of National College of Engineering for the stimulat
 Any attempt at any level can 't be satisfactorily completed without the support and guidance of our parents and friends. Last but not the least, we would 
 also express our deepest gratitude to NCE administration, which provided us with essential and all kind of logistics support.
 
+ALGORITHMS USED
+Context based and Collaborative filtering
+
 HARDWARE REQUIRED
 Processor: I3 2.3 GHz or higher
 RAM: 2 GB
