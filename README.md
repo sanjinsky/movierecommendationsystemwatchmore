@@ -1,5 +1,7 @@
 # movierecommendationsystemwatchmore
 
+You can start the program from homepageguest.py or directly run the program from system.py
+
 COPYRIGHT
 
 The author has agreed that the Library, Department of Electronics and Computer Engineering, National college of Engineering and Institute of Engineering may
